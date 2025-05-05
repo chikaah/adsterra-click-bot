@@ -1,0 +1,4 @@
+{
+  "buildCommand": "npm install && npm install puppeteer --omit=optional",
+  "startCommand": "node index.js"
+}￼Enter
